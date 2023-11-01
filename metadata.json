@@ -14,7 +14,7 @@
       "version_requirement": ">= 3.0.0"
     },
     {
-      "name": "herculesteam-augeasproviders_pam",
+      "name": "puppet-augeasproviders_pam",
       "version_requirement":">= 2.1.0"
     }
   ],
